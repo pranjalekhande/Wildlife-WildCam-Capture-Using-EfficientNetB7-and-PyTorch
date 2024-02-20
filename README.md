@@ -1,0 +1,1 @@
+# Wildlife-WildCam-Capture-Using-EfficientNetB7-and-PyTorch-
